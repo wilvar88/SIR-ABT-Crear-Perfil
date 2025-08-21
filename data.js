@@ -18,7 +18,7 @@ window.HOTSPOTS = [
 window.BUTTONS = [
   { x: 95, y: 95, label: "Manual", href: "manuales/MANUAL SIR Gestión ABT.pdf", target: "blank", variant: "ghost" },
   { x: 16.0, y: 86.5, label: "Crear Perfil",
-  href: "https://wilvar88.github.io/SIR-2/",
+  href: "https://wilvar88.github.io/SIR-Gesti-n-ABT-Perfiles/",
   target: "self",
   size: "w145h32", }   // ← usará esa medida exacta , 
 ];
